@@ -1,5 +1,5 @@
 # 1. Python If-Else
-# HackerRank link : https://www.hackerrank.com/challenges/py-if-else/problem
+HackerRank link : https://www.hackerrank.com/challenges/py-if-else/problem
 output : 
 Enter a number: 5
 Weird
