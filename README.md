@@ -20,7 +20,7 @@ End-to-end business intelligence projects built the way a BI Analyst works on th
 
 | # | Project | What it does | Link |
 |---|---------|--------------|------|
-| 1 | E-Commerce Sales, Customer & Product Analytics | Takes raw e-commerce data (Customers, Products, Orders, Order Items) through Power Query cleaning, a star-schema data model with a Date table, and DAX KPIs. Delivers 6 Power BI dashboards (Sales, Customer, Product & Category, Orders & Payment, Customer Value & Retention, Executive Summary) with business insights and recommendations | [View project](https://github.com/nikk2004/Internship_Tasks/tree/main/Phase%203/E-Commerce%20Sales%2C%20Customer%20%26%20Product%20Analytics) |
+| 1 | E-Commerce Sales, Customer & Product Analytics | Takes raw e-commerce data (Customers, Products, Orders, Order Items) through Power Query cleaning, a star-schema data model with a Date table, and DAX KPIs. Delivers 6 Power BI dashboards (Sales, Customer, Product & Category, Orders & Payment, Customer Value & Retention, Executive Summary) with business insights and recommendations | [View project](https://github.com/nikk2004/Internship_Tasks/tree/main/Phase%203/E-Commerce%20Sales%20Data%20Engineering%20Pipeline%20project) |
 
 ## 🧰 Tech Stack
 | Area | Tools |
